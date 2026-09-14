@@ -69,3 +69,4 @@ delete_button.pack(pady=5)
 
 # Start the application
 window.mainloop()
+print("DONEEEE")
