@@ -17,3 +17,7 @@ class todo:
         if not self.tasks:
             print("NO TASKS")
             return
+
+print("OK")
+
+print("DONE")
