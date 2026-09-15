@@ -17,6 +17,3 @@ class todo:
         if not self.tasks:
             print("NO TASKS")
             return
-        
-        for i, j in enumerate(self.tasks, 1):
-            print(f"{i}. {j[task] {status}}")
